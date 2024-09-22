@@ -1,2 +1,2 @@
 # git_test
-"Hello Odin!"
+I wonder where how all the blind visual learners are doing...
